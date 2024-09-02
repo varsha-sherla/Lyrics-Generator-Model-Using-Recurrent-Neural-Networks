@@ -58,6 +58,8 @@ The dataset used for training the lyric generation model is sourced from Kaggle 
 To clone the repository and navigate to its directory, use these commands:
 
 ```bash
+git clone https://github.com/varsha-sherla/Lyrics-Generator-Model-Using-Recurrent-Neural-Networks.git
+cd Lyrics-Generator-Model-Using-Recurrent-Neural-Networks
 
 
 ```
