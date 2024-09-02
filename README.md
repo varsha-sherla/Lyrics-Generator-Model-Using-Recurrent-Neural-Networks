@@ -10,8 +10,6 @@ This project leverages Long Short-Term Memory (LSTM) neural networks to generate
 ## Project Structure
 
 - **Lyric-Gen_RNN.ipynb**: The primary Jupyter Notebook containing all the steps from data exploration and preprocessing to model training and lyric generation.
-- **data/**: Directory for storing the lyrics dataset.
-- **results/**: Directory for storing generated lyrics and performance metrics.
 - **README.md**: Detailed description of the project (this file).
 
 ## Features
