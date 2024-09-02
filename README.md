@@ -31,6 +31,8 @@ This project leverages Long Short-Term Memory (LSTM) neural networks to generate
   - Generates new song lyrics based on a seed phrase provided by the user.
   - The model predicts one character at a time, allowing for flexible and creative outputs.
 
+## Dataset
+The dataset used for training the lyric generation model is sourced from Kaggle and is named AZLyrics. For the sake of simplicity and efficiency, a single CSV file, **azlyrics_lyrics_w.csv**, has been utilized. This file contains a comprehensive collection of song lyrics, which was instrumental in training the model to generate coherent and creative lyrics. Using this dataset allowed for a streamlined development process while still providing a rich variety of text data for effective model training.
 
  ## Prerequisites
 
