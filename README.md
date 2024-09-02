@@ -11,6 +11,10 @@ This project leverages Long Short-Term Memory (LSTM) neural networks to generate
 
 - **Lyric-Gen_RNN.ipynb**: The primary Jupyter Notebook containing all the steps from data exploration and preprocessing to model training and lyric generation.
 - **README.md**: Detailed description of the project (this file).
+- **output**: The graph illustrates the "Training Loss over Epochs" for a lyrics 
+generator model utilizing an RNN with LSTM units. The x-axis 
+represents the epochs (0 to 4), and the y-axis indicates the training loss, 
+decreasing from approximately 1.84 to 1.75.
 
 ## Features
 
